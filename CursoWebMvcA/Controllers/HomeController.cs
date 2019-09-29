@@ -5,7 +5,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CursoWebMvcA.Models;
-using CursoWebMvcA.Models;
 
 namespace CursoWebMvcA.Controllers
 {
